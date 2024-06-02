@@ -8,7 +8,7 @@ Some codes are borrowed from MetaMath (https://github.com/meta-math/MetaMath)
 Clone the repository and install the required packages:
 
 ```bash
-git clone 
+git clone https://github.com/AllForward/ReversalMath.git
 cd ReversalMath
 pip install -r requirements.txt
 ```
