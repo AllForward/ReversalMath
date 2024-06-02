@@ -1,9 +1,6 @@
 # Exploring Reversal Mathematical Reasoning Ability for Large Language Models (ACL 2024 Findings)
 
-Some codes are borrowed from 
-
-[MetaMath]: https://github.com/meta-math/MetaMath
-
+Some codes are borrowed from MetaMath (https://github.com/meta-math/MetaMath)
 
 
 <h2 id="env">Quick Start</h2>
